@@ -1,5 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/ad7a9c50-7246-4ddb-9fbe-2925380c34f6)
+
 # Agenda 13 - Descrição do exercício: 
+
+<hr>
 
 ### Atividade:
 
